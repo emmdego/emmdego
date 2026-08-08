@@ -6,7 +6,7 @@ I'm Emmanuel Escudero Arango, and I'm currently studying Analysis and Software D
 
 Feel free to explore how I learn, what I have accomplished, the engineer I aspire to become, and how to contact me.
 
-## My Learning Philosophy
+## 🧠 My Learning Philosophy
 
 I have developed a learning and documentation philosophy that I follow whenever I study a new topic.
 
@@ -16,7 +16,7 @@ I also document my practice scripts alongside comments and key ideas that can he
 
 Once I have built a strong foundation, I can go deeper into more specific concepts and technologies while connecting them with what I already understand.
 
-## My Learning Path
+## 🛤️ My Learning Path
 
 At the beginning of my studies, I believe I chose a good starting point: learning my first programming language, Python.
 
@@ -26,19 +26,34 @@ Today, I use these principles when learning new technologies and systems, and I 
 
 Currently, I am focusing on backend development, SQL and NoSQL databases, and cybersecurity foundations. These areas are connected by my interest in good software design and architecture principles, particularly SOLID and the Single Responsibility Principle.
 
-## Learning & Documentation
+## 📚 Learning & Documentation
 
 Here are some repositories that demonstrate my learning process and the knowledge I have developed throughout my studies:
 
-- [Python, OOP & SOLID](link)
-- [Clean Architecture](link)
-- [SQL](link)
-- [JavaScript Essentials](link)
-- [Frontend Basics — HTML, CSS & JavaScript](link)
+- [Python, OOP & SOLID]()
+- [Clean Architecture]()
+- [SQL]()
+- [JavaScript Essentials]()
+- [Frontend Basics — HTML, CSS & JavaScript]()
 
 These repositories contain documentation, practice, and examples from different stages of my learning process.
 
-## My Long-Term Direction
+## 🛠️ Technologies & Tools
+
+### Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+### Tools and Environment
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+
+## 🧭 My Long-Term Direction
 
 In the long term, I want to develop strong backend engineering expertise that is not dependent on a specific technology, but instead based on software design and architecture principles that can adapt to different technologies.
 
@@ -46,6 +61,6 @@ I want to continue developing my understanding of principles such as SOLID and C
 
 I am also interested in exploring cybersecurity as another area of software engineering. I see it as a different but complementary field that I would like to understand more deeply as my software engineering foundations continue to grow.
 
-## Connect With Me
+## 🤝 Connect With Me
 
 - [LinkedIn](linkedin.com/in/emmanuel-escudero)
