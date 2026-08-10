@@ -40,7 +40,7 @@ These repositories contain documentation, practice, and examples from different 
 ## 🚀 Projects
 
 Here are some projects I've worked on or participated in:
-- [VisionVial](https://github.com/Emmanuel-ui-oss/hackaton)
+- [VisionVial](https://github.com/Emmanuel-ui-oss/hackaton) - Hackathon first place project
 
 ## 🛠️ Technologies & Tools
 
