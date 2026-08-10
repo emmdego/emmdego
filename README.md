@@ -63,4 +63,4 @@ I am also interested in exploring cybersecurity as another area of software engi
 
 ## 🤝 Connect With Me
 
-- [LinkedIn](linkedin.com/in/emmanuel-escudero)
+- [LinkedIn](https://www.linkedin.com/in/emmanuel-escudero/)
