@@ -6,6 +6,7 @@ I'm Emmanuel Escudero Arango, and I'm currently studying Analysis and Software D
 
 Feel free to explore how I learn, what I have accomplished, the engineer I aspire to become, and how to contact me.
 
+
 ## 🧠 My Learning Philosophy
 
 I have developed a learning and documentation philosophy that I follow whenever I study a new topic.
@@ -16,6 +17,7 @@ I also document my practice scripts alongside comments and key ideas that can he
 
 Once I have built a strong foundation, I can go deeper into more specific concepts and technologies while connecting them with what I already understand.
 
+
 ## 🛤️ My Learning Path
 
 At the beginning of my studies, I believe I chose a good starting point: learning my first programming language, Python.
@@ -25,6 +27,7 @@ Alongside Python, I learned Object-Oriented Programming, SOLID principles, and C
 Today, I use these principles when learning new technologies and systems, and I increasingly recognize similar ideas being applied in different technologies and well-designed systems. This helps me understand new concepts faster and connect them with knowledge I already have.
 
 Currently, I am focusing on backend development, SQL and NoSQL databases, and cybersecurity foundations. These areas are connected by my interest in good software design and architecture principles, particularly SOLID and the Single Responsibility Principle.
+
 
 ## 📚 Learning & Documentation
 
@@ -37,10 +40,12 @@ Here are some repositories that demonstrate my learning process and the knowledg
 
 These repositories contain documentation, practice, and examples from different stages of my learning process.
 
+
 ## 🚀 Projects
 
 Here are some projects I've worked on or participated in:
 - [VisionVial](https://github.com/Emmanuel-ui-oss/hackaton) - Hackathon first place project
+
 
 ## 🛠️ Technologies & Tools
 
@@ -64,6 +69,7 @@ In the long term, I want to develop strong backend engineering expertise that is
 I want to continue developing my understanding of principles such as SOLID and Clean Architecture while learning how to apply them in different environments and technologies.
 
 I am also interested in exploring cybersecurity as another area of software engineering. I see it as a different but complementary field that I would like to understand more deeply as my software engineering foundations continue to grow.
+
 
 ## 🤝 Connect With Me
 
