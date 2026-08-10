@@ -37,6 +37,11 @@ Here are some repositories that demonstrate my learning process and the knowledg
 
 These repositories contain documentation, practice, and examples from different stages of my learning process.
 
+## 🚀 Projects
+
+Here are some projects I've worked on or participated in:
+- [VisionVial](https://github.com/Emmanuel-ui-oss/hackaton)
+
 ## 🛠️ Technologies & Tools
 
 ### Backend
