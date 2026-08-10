@@ -33,7 +33,7 @@ Here are some repositories that demonstrate my learning process and the knowledg
 - [Python, OOP & SOLID](https://github.com/emmdego/python-oop-solid)
 - [SQL]()
 - [JavaScript Essentials](https://github.com/emmdego/javascript-essentials)
-- [Frontend Basics — HTML, CSS & JavaScript]()
+- [Frontend Basics — HTML, CSS & JavaScript](https://github.com/emmdego/frontend-basics)
 
 These repositories contain documentation, practice, and examples from different stages of my learning process.
 
