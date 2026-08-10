@@ -34,9 +34,10 @@ Currently, I am focusing on backend development, SQL and NoSQL databases, and cy
 Here are some repositories that demonstrate my learning process and the knowledge I have developed throughout my studies:
 
 - [Python, OOP & SOLID](https://github.com/emmdego/python-oop-solid)
-- [SQL](https://github.com/emmdego/sql-query-practice)
 - [JavaScript Essentials](https://github.com/emmdego/javascript-essentials)
 - [Frontend Basics — HTML, CSS & JavaScript](https://github.com/emmdego/frontend-basics)
+- [SQL](https://github.com/emmdego/sql-query-practice)
+
 
 These repositories contain documentation, practice, and examples from different stages of my learning process.
 
