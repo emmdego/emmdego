@@ -26,7 +26,9 @@ Alongside Python, I learned Object-Oriented Programming, SOLID principles, and C
 
 Today, I use these principles when learning new technologies and systems, and I increasingly recognize similar ideas being applied in different technologies and well-designed systems. This helps me understand new concepts faster and connect them with knowledge I already have.
 
-Currently, I am focusing on backend development, SQL and NoSQL databases, and cybersecurity foundations. These areas are connected by my interest in good software design and architecture principles, particularly SOLID and the Single Responsibility Principle.
+I always try to document and comment my process using Git and saving it to this GitHub.
+
+Currently, I am focusing on backend development, SQL databases, and cybersecurity foundations. These areas are connected by my interest in good software design and architecture principles, particularly SOLID and the Single Responsibility Principle.
 
 
 ## 📚 Learning & Documentation
@@ -34,6 +36,7 @@ Currently, I am focusing on backend development, SQL and NoSQL databases, and cy
 Here are some repositories that demonstrate my learning process and the knowledge I have developed throughout my studies:
 
 - [Python, OOP & SOLID](https://github.com/emmdego/python-oop-solid)
+- [Git & GitHub](https://github.com/emmdego/Git)
 - [JavaScript Essentials](https://github.com/emmdego/javascript-essentials)
 - [Frontend Basics — HTML, CSS & JavaScript](https://github.com/emmdego/frontend-basics)
 - [SQL](https://github.com/emmdego/sql-query-practice)
@@ -60,7 +63,7 @@ Here are some projects I've worked on or participated in:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ### Tools and Environment
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 
 ## 🧭 My Long-Term Direction
